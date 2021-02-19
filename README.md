@@ -1,6 +1,6 @@
 # intersect2x3
 
-Synopsis: intersect file1 with 2 cols with file 2 with 3 cols using col1
+Synopsis: intersect file1 with 2 columns with file2 with 3 columns using column 1
 
 Usage: vga_intersect2x3 file1 file2 file3
 
